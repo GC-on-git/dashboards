@@ -4,10 +4,12 @@
 A collection of interactive dashboards built using Microsoft Excel and Tableau to visualize and analyze business and HR-related data. The projects include a Coffee Shop Dashboard created in Excel and an HR Analytics Dashboard developed in Tableau. These dashboards demonstrate key insights through clean design and data-driven storytelling, using tools like Power Query, Pivot Tables, and Tableau’s visual components.
 
 ## Learnings:
-Through these projects, I learned how to clean and transform data using Power Query in Excel, build dynamic Pivot Table-based dashboards, and leverage Tableau's drag-and-drop interface for effective visual analytics. It also deepened my understanding of key dashboarding principles such as usability, interactivity, and performance optimization.
+* Through these projects, I learned how to clean and transform data using Power Query in Excel, build dynamic Pivot Table-based dashboards, and leverage Tableau's drag-and-drop interface for effective visual analytics.
+* It also deepened my understanding of key dashboarding principles such as usability, interactivity, and performance optimization.
 
 ## Challenges:
-Key challenges included handling inconsistent data formats, ensuring dynamic linkages across Excel components, and optimizing Tableau dashboards for performance and clarity while managing large datasets. Balancing visual appeal with information density was crucial to ensure the dashboards remained intuitive and actionable.
+* Key challenges included handling inconsistent data formats, ensuring dynamic linkages across Excel components, and optimizing Tableau dashboards for performance and clarity while managing large datasets.
+* Balancing visual appeal with information density was crucial to ensure the dashboards remained intuitive and actionable.
 
 
 ## Demo Images
